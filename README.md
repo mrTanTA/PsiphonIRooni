@@ -16,7 +16,7 @@ There are two ways to install Psiphon for linux, the recomended way is the autom
 ## Automatic Global Installation Alpha (Recommended)
 1. Ensure wget is installed. If wget is not installed, look up the installation guide for your Linux distro
 2. Open a terminal to a location you would like to store the installation script (e.g. /home/user/Downloads/) and run the following commands
-3. `wget https://raw.githubusercontent.com/SpherionOS/PsiphonLinux/main/plinstaller2` downloads installation script to the current directory
+3. `wget https://raw.githubusercontent.com/mrTanTA/PsiphonIRooni/main/plinstaller2` downloads installation script to the current directory
 4. `sudo sh plinstaller2` runs the installation script as root. This is necessary to install psiphon in `/usr/bin` and to add the executable permission
 5. `plinstaller2` is able to be safely removed with `sudo rm -rf plinstaller2` if desired as it is no longer used
 
@@ -28,7 +28,7 @@ There are two ways to install Psiphon for linux, the recomended way is the autom
 
 ## Uninstallation Procedure
 1. Run `sudo sh pluninstaller` in the directory where the `plinstaller2` installation script was first downloaded
-2. If the `pluninstaller` file cannot be found, run `wget https://raw.githubusercontent.com/SpherionOS/PsiphonLinux/refs/heads/main/pluninstaller` to download the script, and then repeat the step above
+2. If the `pluninstaller` file cannot be found, run `wget https://raw.githubusercontent.com/mrTanTA/PsiphonIRooni/refs/heads/main/pluninstaller` to download the script, and then repeat the step above
 
 ## Starting Psiphon
 ### Manual Install
