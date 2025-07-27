@@ -1,3 +1,0 @@
-#! /bin/bash
-
-/etc/psiphon/psiphond -config /etc/psiphon/psiphon.config

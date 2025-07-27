@@ -1,0 +1,3 @@
+#! /bin/bash
+
+/etc/psiphonirooni/psiphond -config /etc/psiphonirooni/psiphon.config
