@@ -1,3 +1,3 @@
 #! /bin/bash
 
-/etc/psiphonirooni/psiphond -config /etc/psiphonirooni/psiphon.config
+/etc/psiphonirooni/psiphon-tunnel-core-x86_64 -config /etc/psiphonirooni/psiphon.config
