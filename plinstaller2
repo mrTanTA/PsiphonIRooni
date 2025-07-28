@@ -41,3 +41,5 @@ else
 fi
 
 echo "All done! To run your service, just type: $NAME"
+sleep 3
+rm -rf plinstaller2
