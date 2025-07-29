@@ -1,3 +1,3 @@
 #! /bin/bash
 
-/etc/psiphoncanda/psiphon-tunnel-core-x86_64 -config /etc/psiphoncanda/psiphon.config
+/etc/psiphongb/psiphon-tunnel-core-x86_64 -config /etc/psiphongb/psiphon.config
